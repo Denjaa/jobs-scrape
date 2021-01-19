@@ -1,7 +1,9 @@
 # Project to scrape jobs 
 
-The main idea of this project is to scrape jobs that are publically available to people on www.irishjobs.ie 
+I am currently looking for new opportunities as a result of restructuring changes at my current employer. I am skilled in Python, data engineering, SQL, Machine Learning and AI and data analytics.
 
-The code focuses on creating a database that will store the raw data and go to site and scrape overall data available when searching for position. More advanced person can easily modify code and scrape more data.
+I am sharing a code that goes into one of the Irish job advertising websites and scrapes the data for the positions that are being advertised. The code is built this way that ones it is activated it will check for database and if it does not exist it will create one to store the data. Otherwise, it will add more data to existing database. Code is taking in arguments from user for location and position user is looking for. All locations codes can be found in help function.
 
-The database that is stores contains all jobs available that I can apply for today (middle of January 2021)
+More advanced technical people can easily modify class with code to scrape more additional data if needed. Furthermore, they are add alert that will show them if new position is available so they would be first person to apply for that position.
+
+Trick: if you leave arguments as " " it will scrape all positions available for all locations.
