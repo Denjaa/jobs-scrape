@@ -4,3 +4,4 @@ The main idea of this project is to scrape jobs that are publically available to
 
 The code focuses on creating a database that will store the raw data and go to site and scrape overall data available when searching for position. More advanced person can easily modify code and scrape more data.
 
+The database that is stores contains all jobs available that I can apply for today (middle of January 2021)
